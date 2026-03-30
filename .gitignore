@@ -1,0 +1,20 @@
+# Ambientes Virtuais
+.venv/
+env/
+venv/
+
+# Cache e Python Internals
+__pycache__/
+*.pyc
+.pytest_cache/
+.ipynb_checkpoints/
+
+# Variáveis de Ambiente e Segredos
+.env
+.secrets.toml
+
+# Dados Brutos (Maciços)
+data/raw/*
+
+# Logs
+*.log

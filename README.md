@@ -1,8 +1,8 @@
-# 📊 MacroQuant-BR: Institutional Dashboard & Quant Pipeline
+#  MacroQuant-BR: Institutional Dashboard & Quant Pipeline
 
 Uma arquitetura quantitativa *end-to-end* que cruza dados macroeconômicos brasileiros (Banco Central) com ativos de risco e criptomoedas. Desenhado para análise de portfólio, detecção de regimes e simulação de choques de liquidez.
 
-## 🧠 Arquitetura e Modelagem
+##  Arquitetura e Modelagem
 
 O projeto é dividido em um *Back-end* de engenharia de dados/modelagem e um *Front-end* analítico:
 
